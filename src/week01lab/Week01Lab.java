@@ -18,7 +18,7 @@ public class Week01Lab {
         // TODO code application logic here
         System.out.println("This is a test for Week 01 Lab");
         
-        System.out.println("TEST Two")
+        System.out.println("TEST Two");
     }
     
 }
